@@ -5,7 +5,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: 'Orbitron', sans-serif;
-  transition: all 0.4s ease;
+  transition: all 0.5s ease;
 }
 section{
   min-height: 100vh;
@@ -13,7 +13,7 @@ section{
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #F0F8FF;
+  background: #d1d5d8;
   padding: 0 20px;
 }
 section.dark{
